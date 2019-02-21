@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-trainin",
+  "version": "1.0.0",
+  "description": "Node JS Training App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.9",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.16.2"
+  }
+}
